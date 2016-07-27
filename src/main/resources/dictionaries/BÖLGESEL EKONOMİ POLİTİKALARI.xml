@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BETA KATSAYISI</name>
+<name-en>Beta coefficient</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Merkezi hükümetin veya yerel yönetimlerin ülkenin bir bölgesinin <terim name="BÖLGESEL EKONOMİ POLİTİKALARI"> ekonomik kalkınması </terim> ve gelişmesi için uyguladıkları <terim name="BÖLGESEL EKONOMİ POLİTİKALARI"> ekonomi politikaları  </terim> anlamına gelmektedir.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+En önemli bölgesel ekonomi politikası uygulamaları bölgesel olarak verilen <terim name="TEŞVİK">  teşviklerdir.</terim>
+]]>
+</long-description>
+</directory>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BUGÜNKÜ DEĞER</name>
+<name-en>present value</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+İleri dönemlerdeki nakit akımlarını belirli bir <terim name="FAİ VE FAİZ ORANI"> faiz oranı </terim> veya   <terim name="GETİRİ ORANI"> getiri oranından </terim>  <terim name="BUGÜKÜ DEĞER"> iskonto </terim> edilerek indirgenmesi sonucu bulunan tutarlarının toplamıdır.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Bugünkü değer yaklaşımı her türlü <terim name="SABİT GETİRİLİ MENKUL KIYMETLER"> sabit getirili menkul kıymetlerin </terim> birim fiyatının hesaplanmasında, <terim name="BUGÜNKÜ DEĞER"> faktoring </terim> gibi işlemlerde ise ileri de tahsil edilecek olan herhangi bir alacak için bugün yapılacak ödeme tutarının belirlenmesinde, vbg. Işlemlerde kullanılmaktadır.
+]]>
+</long-description>
+</directory>

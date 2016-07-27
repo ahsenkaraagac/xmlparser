@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>ARBİTRAJ</name>
+<name-en>Arbitrage</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular> 
+<short-description><![CDATA[
+Finans teorisinde arbitraj aynı ya da farklı  <terim name="FİNANSAL PİYASALAR">finansal piyasalarda</terim> işlem gören  <terim name="FİNANSAL ÜRÜNLER">finansal ürünlerin</terim> olması gereken  <terim name="FİYAT">fiyatıyla</terim> işlem gören fiyatı arasında bir fark olduğunda ortaya çıkar. Böyle bir durum olması halinde  <terim name="ARBİTRAJ">rasyonel yatırımcılar</terim> devreye girerek fiyat farklılığının yarattığı avantajdan yararlanarak ilgili finansal varlığın fiyatının tekrar olması gereken seviyeye gelmelerini sağlayacaklardır.]]>
+</short-description>
+<long-description>
+<![CDATA[
+Normal koşullarda finansal piyasaların etkin olması durumunda (<terim name="ARBİTRAJ">etkin piyasa hipotezi</terim>) hiç arbitraj imkanı çıkmaz veya çıksa da tekrar denge fiyat seviyesine arbitrajcılar sayesinde gelir.
+Ancak uygulamada etkinlik konusu çok tartışmalıdır. Finansal piyasaların etkin olmadığı düşünülmektedir. Bunun nedeni <terim name="İÇERİDEN ÖĞRENİLEN BİLGİ TİCARETİ">asimetrik enformasyon</terim> ve yatırımcıların çoğunun rasyonel hareket etmemesi gösterilebilir. 
+<terim name="ARBİTRAJ">Tam enformasyonun</terim> olduğu bir piyasada yatırımcıların hepsinin o finansal varlıkla ilgili her türlü enformasyona aynı anda ulaşması ve değerleme yaptıklarında da aynı sonuca varmaları gerekmektedir. Bu durumda o finansal varlıkla ilgili beklentiler aynı olacağından o finansal varlıkla ilgili arbitraj olanağı olamayacaktır. Olsa bile bu fırsatı değerlendiren yatırımcılar devreye girerek hem risksiz kazanç elde edecekler hem de fiyatın olması gereken seviyeye gelmesini sağlayacaklardır. 
+Arbitraj aynı finansal ürünün farklı piyasalarda birbirlerinden farklı fiyatlarla işlem görmesi sonucu da çıkabilir. Örneğin bugün <terim name="PAY(HİSSE) SENETLERİ">pay (hisse) senetlerinin</terim> bazıları hem <terim name="BİST">BİST</terim>’de hem de yurtdışı borsalarda işlem görebilmektedirler. Bazı durumlarda her iki finansal piyasada işlem gören pay senedinin fiyatları arasında farklılık çıkabilir. 
+Yine <terim name="BLACKAND SHOLES">dayanak varlık</terim> olarak da ifade edilebilen aynı finansal varlığın <terim name="SPOT PİYASALAR">spot piyasa</terim> fiyatı ile hesaplanan <terim name="TÜREV SÖZLEŞMELER">türev işlem</terim> fiyatı, örneğin <terim name="FORWARD SÖZLEŞMELERİ">forward sözleşme</terim> ya da <terim name="VADELİ İŞLEMLER(FUTURES)">vadeli işlem (futures) sözleşmesi</terim> fiyat arasında da arbitraj imkanı oluşabilir. Bu durumda arbitrajcılar devreye girerek aynı anda bir piyasada satın alırken diğer piyasada satarak risksiz kar elde edebilirler ve bu durum fiyatların denge seviyesine gelmesine kadar devam edebilir.
+Ancak uygulamada arbitraj yapmak zordur. Her ne kadar bir finansal varlık farklı piyasalarda işlem görebilse de her piyasanın bir takım farklılıkları, örneğin <terim name="TEMİNAT">teminatlandırma</terim> farklılıkları, <terim name="KREDİ">kredi risklerinin</terim> farklı olarak ölçümlenmesi, işlem maliyetlerinin farklılığı vbg. sebepler fiyat farklılıklarının doğmasına ve teorinin öngördüğü denge seviyesine gelememesine neden olabilir.]]>
+</long-description>
+</directory>

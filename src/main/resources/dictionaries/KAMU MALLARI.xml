@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>KAMU MALLARI</name>
+<name-en>Public goods</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Mülkiyeti hiç bir kuruma veya kişiye ait olmadığından herkesçe bedelsiz olarak kullanılan mal ve hizmetleri (ürün) ifade eden bir kavramdır.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Örneğin genel parklar, deniz kıyısı gibi kimsenin mülkiyetinde olmayan herkesin kullanımına açık olan alanlar kamu malı olarak sayılırlar.
+]]>
+</long-description>
+</directory>

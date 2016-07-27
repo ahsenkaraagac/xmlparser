@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>AVRUPA MERKEZ BANKASI(AMB)</name>
+<name-en>European Central Bank</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>	
+<short-description>
+<![CDATA[
+<terim name="AVRUPA MERKEZ BANKASI(AMB)">Avrupa Merkez Bankası</terim>, Avrupa Birliği (AB) içerisindeki üye ülkelerden <terim name="EURO">Euro’yu</terim> ortak para birimi ve yasal ödeme aracı olarak seçen ve şu an için 19 adet ülke tarafından oluşturulan bir parasal birlik olan <terim name="AVRO BÖLGESİ">Avro Bölgesi’nin</terim> <terim name="MERKEZ BANKASI">merkez bankasıdır</terim>.]]>
+</short-description>
+<long-description>
+<![CDATA[
+Ana görevi Euro’nun alım gücünü korumak ve Avro Bölgesi’nde fiyat istikrarını sağlamaktır. 
+
+Diğer görevleri ise;
+1)	Avro Bölgesi’nde <terim name="PARA POLİTİKASI">para politikasını</terim> oluşturmak ve uygulamak,
+2)	 Döviz işlemlerini gerçekleştirmek ve sisteme üye olan ülkelerin döviz rezervlerini yönetmek, 
+3)	Ödeme sistemlerini oluşturmak ve yönetmek, 
+4)	<terim name="MENKUL KIYMETLER">Menkul kıymet</terim> takasını gerçekleşmesini sağlayıcı <terim name="AVRUPA MERKEZ BANKASI(AMB)">merkezi takas kuruluşu</terim> rolünü üstlenmek,
+5)	Üye ülkelerin finansal kurumlarının <terim name="DEREGÜLASYON">gözetim ve denetimini</terim> üye ülkelerin ilgili otoriteleriyle birlikte yapmak ve finansal istikrarı sağlamak
+6)	 Her ne kadar üye ülkelerin Euro <terim name="AVRUPA Merkez BANKASI(AMB)">banknot</terim> basma yetkileri varsa da Banka bu konuda en yüksek karar alıcı otoritedir.
+
+AMB’nin kuruluşunun kökeni 1993 yılında oluşturulan AB’nin öncülü ve Avrupa Ekonomik Topluluğu’nun (AET) ardılı olan Avrupa Topluluğu ülkelerince imzalanan Maastricht Antlaşması’na dayanmaktadır. Bu anlaşma ile AB ve Euro’nun yaratılmasına karar verilmiştir. 
+
+Bu anlaşmaya bağlı olarak 1 Haziran 1998 tarihinde AMB oluşturulmuş ve 1 Ocak 1999’da Euro’nun Avro Bölgesi’nde resmen kullanılmaya başlamasıyla da faaliyete geçmiştir.
+]]>
+</long-description>
+</directory>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>ALIŞ FİYATI</name>
+<name-en>Bid Price</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+<terim name="FİNANSAL PİYASALAR">Finansal piyasalarda</terim> alıcı tarafın herhangi bir finansal varlığı almak ya da <terim name="BORÇLANMA">borçlanmak</terim> amacıyla ilan ettiği ya da teklif ettiği <terim name="FİYAT">fiyattır</terim>.]]>
+</short-description>
+<long-description>
+<![CDATA[
+<terim name="TEZGAHÜSTÜ PİYASALAR">Tezgahüstü finasal piyasalarda finansal aracıların</terim> ilan ettiği fiyatken, <terim name="ORGANİZE PİYASALAR">organize piyasalarda</terim> işlem yapmak isteyen taraf finansal aracı olmasa da almak istediği bir finansal varlıkla ilgili alış fiyatı girebilir.
+<terim name="KREDİ">Kredi</terim>, <terim name="LIBOR">bankalararası para piyası</terim> vbg. <terim name="FAİZ VE FAİZ ORANI">faiz</terim> oranına dayalı işlemlerde bankaların borçlanmak amacıyla ilan ettikleri faiz oranı anlamına gelmektedir.]]>
+</long-description>
+</directory>

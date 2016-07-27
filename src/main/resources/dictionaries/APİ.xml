@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>APİ</name>
+<name-en>APİ</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Bakınız <terim name="AÇIK PİYASA İŞLEMLERİ">Açık Piyasa İşlemleri</terim>]]>
+</short-description>
+    <long-description></long-description>
+</directory>

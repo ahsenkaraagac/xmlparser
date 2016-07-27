@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BANKA</name>
+<name-en>BANK</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Klasik anlamda <terim name="MEVDUAT BANKASI">mevduat</terim> toplayarak <terim name="KREDİ">kredi</terim> veren <terim name="FİNANSAL ARACILAR">finansal aracı</terim> türüdür. Bugün bankalar bulundukları ülkelerin mevzuatına ve kendilerini <terim name="REGÜLASYON">denetleyici ve gözetici kamu kurumlarının</terim> izinlerine bağlı olarak mevduat toplayıp kredi vermenin yanında <terim name="DÖVİZ KURU">döviz</terim> alım satımı, <terim name="MENKUL KIYMETLER">menkul kıymet</terim> alım satımı, kefalet ve garanti verme işlemleri vbg.  bir çok finansal hizmeti yerine getirmektedirler.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Bankalar çeşitli türlere ayrılabilirler. Ülkemizdeki mevzuata göre üç tip banka vardır:
+1)	<terim name="MEVDUAT BANKASI">Mevduat bankası</terim>: Ana kaynak olarak mevduat toplama yetkisine sahip olup (ancak <terim name="KALIRIM BANKASI">katılım hesapları</terim> toplma yetkisi olmayan) her türlü kredi verme yetkisi olmak üzere Bankacılık Kanunu’nun 4. maddesinde belirtilmiş olan birtakım faaliyetleri <terim name="KALKINMA VE YATIRIM BANKASI BANKASI">Bankacılık Düzenleme ve Denetleme Kurumu’ndan (BDDK)</terim> aldığı izinlere göre yapma yetkisinde olan banka
+2)	<terim name="KALIRIM BANKASI">Katılım bankası</terim>: Ana kaynak olarak katılım hesapları toplama yetkisine sahip olup (ancak mevduat toplma yetkisi olmayan) her türlü kredi verme yetkisi olmak üzere Bankacılık Kanunu’nun 4. maddesinde belirtilmiş olan birtakım faaliyetleri BDDK’dan aldığı izinlere göre yapma yetkisinde olan banka.
+3)	<terim name="KALKINMA VE YATIRIM BANKASI BANKASI">Kalkınma ve yatırım bankası:</terim> Ne mevduat yoluyla ne de katılım hesapları yoluyla fon toplama yetksi olmayan ancak her türlü kredi verme yetkisi olmak üzere Bankacılık Kanunu’nun 4. maddesinde belirtilmiş olan birtakım faaliyetleri BDDK’dan aldığı izinlere göre yapma yetkisinde olan banka.
+]]>
+
+</long-description>
+</directory>

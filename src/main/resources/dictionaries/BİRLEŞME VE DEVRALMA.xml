@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BİRLEŞME VE DEVRALMA</name>
+<name-en>MERGERS AND ACQUİSİTİONS</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Bir şirketin bir veya daha fazla şirketi satın alması ya da iki veya daha fazla şirketin birleşerek yeni bir şirket oluşturmalarıdır.
+
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Bir şirketin diğer bir şirketin <terim name="BİRLEŞME VE DEVİRALMA"> paylarını (hisse) </terim> satın alarak o şirkette hakim ortak olması devralma anlamına gelir. Bu durumda satın alınan şirket varlığını korumaya devam eder.
+Bir şirketin diğer bir şirketle birleşerek yeni bir şirket kurarak kurulan şirketin paylarını (hisse) her iki şirketin sermayedarlarının ellerindeki eski şirketlerin pay senetleriyle değiştirme işlemine de birleşme denir.
+Devralma ve birleşmenin ana amacı hissedar değerini artırmaktır.
+Devralma ve birleşmeler  <terim name="BİRLEŞME VE DEVİRALMA"> dikey entegrasyon </terim> veya yatay entegrasyon şeklinde olabilir. Dikey entegrasyonda amaç <terim name="BİRLEŞME VE DEVİRALMA"> üretim faktörlerinin </terim> kontrolünü sağlamadan dağıtım kanallarının kontrolüne kadar gidebilir. Böylece satın alan şirket veya birleşen şirketler kendilerine maliyet avantajı yaratma ve <terim name="ÖLÇEK EKONOMİSİ"> ölçek ekonomisinden</terim>yararlanma yoluna gidebilirler.
+Yatay entegrasyonda ise amaç aynı alanda faaliyet gösteren bir rakibin satın alınması veya onunla birleşmektir. Bu şekilde de rekabet avantajı yaratılmaya çalışılır.
+Birleşme ve devralma iki <terim name="PİYASA KAPİTİLİZASYONU">  halka açık </terim> şirket arasında gerçekleşebileceği gibi iki halka açık olmayan veya bir tanesi halka açık olan diğeri olmayan iki şirket arasında da olabilir. Satın almada halka açık bir şirketin önemli ölçüde payları satın alınıyorsa satın alan şirket sermaye piyasası mevzuatı gereği diğer yatırımcıların elinde olan ve borsalarda işlem gören pay senetlerini satın almak için çağrı yapmak zorunda kalabilir.
+Birleşme ve devralmalar rekabet mevzuatına tabiidirler.
+]]>
+</long-description>
+</directory>

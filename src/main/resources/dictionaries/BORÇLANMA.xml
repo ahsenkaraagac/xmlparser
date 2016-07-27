@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BORÇLANMA</name>
+<name-en>debt</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Bir kişi veya kurumun karşı taraftan ödünç aldığı fonları ifade etmek amacıyla kullanılır.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Borç almanın çeşitli sebepleri olabilir. Eğer gelirler veya hali hazırdaki birikimler harcamaları karşılamaya yetmiyorsa borç alınabilir. Örneğin tüketici kredileri gibi.
+Yatırım yapmak da borç almanın bir nedenidir. Şirketler sadece günlük nakit akışlarını yönetmek için değil aynı zamanda uzun vadeli <terim name="YATIRIM"> yatırımlarını </terim> yapabilmek amacıyla da borçlanılırlar.
+Borçlanma örneğin <terim name="KREDİ"> kredi </terim>  gibi karşı taraftan doğrudan borç alma olabileceği gibi,<terim name="BONO">  bono </terim>,<terim name="TAHVİL"> tahvil </terim>, <terim name="BORÇLANMA"> kira sertifikası </terim>, varlığa dayalı menkul kıymet (VDMK) gibi <terim name="SABİT GETİRİLİMENKUL KIYMETLER"> sabit getirili menkul kıymetlerin ihracı </terim> suretiyle de yapılabilir.
+]]>
+</long-description>
+</directory>

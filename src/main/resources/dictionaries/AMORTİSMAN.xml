@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>AMORTİSMAN</name>
+<name-en>Depreciation</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Maddi duran varlıklarla ilgili bir kavramdır. Bu tür varlıklarda fiziksel vetya ekonomik ömre bağlı olarak oluşan yıpranmaları idafe etmek için kullanılır.]]>
+</short-description>
+<long-description>
+<![CDATA[
+İşletmelerin maddi duran varlıklar için yapmış oldukları harcamalar hiç bir zaman gider olarak değil her zaman yatırım harcaması olarak değerlendirilirler. Anca yukarıda belirtilen şekilde oluşan veya oluştuğu kabul edilen yıpranmalar nedeni ile dönemsel olarak amortisman karşılıkları ayırırlar. Bu ayrılan karşılıklar amortisman giderleri olarak muhasebeleştirilirler.
+Amortismanlar her ne kadar muhasabe açısından gider olarak kabul edilse de hiç bir zaman nakit çıkışı yaratmazlar. Bu açıdan finansal analiz yapıldığında bu özellikleri dikkate alınır. Örneğin maddi duran varlıklarla ilgili yatırımların karar aşamasında ileri dönemlerdeki nakit akımlarının tahmininde bir nakit çıkışı olarak ele alınmadıkları gibi vergi öncesi karı tutarları kadar düşürdükleri için ayrıca vergi avantajı yaratırlar.
+]]>
+</long-description>
+</directory>

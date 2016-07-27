@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>B ENDEKSİ</name>
+<name-en>B ENDEKSİ</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>
+    <short-description></short-description>
+<long-description>
+<![CDATA[
+İşlenmemiş gıda ürünleri hariç <terim name="KURUMSAL YATIRIMCILAR">TÜFE</terim>. Ayrıca bakınız <terim name="ÖZEL KAPSAMLI TÜKETİCİ FİYATLARI ENDEKSLERİ(ÖZEL KAPSAMLI TÜFE)">Özel Kapsamlı Tüketici Fiyatları Endeksi (Özel Kapsamlı TÜFE)</terim>.
+]]>
+</long-description>
+</directory>

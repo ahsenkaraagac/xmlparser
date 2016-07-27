@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BONO</name>
+<name-en>Bond</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+<terim name="SABİT GETİRİLİ MENKUL KIYMETLER">Sabit getirili menkul kıymet</terim>türlerindendir
+c Vadesi </terim>1 yıldan kısadır. Özel veya kamu şirketleri tarafından kısa vadeli borçlanma amacıyla  <terim name="İHRAÇ">  ihraç </terim> edilirler. Ülkelerin merkezi yönetimlerince ihraç edilenlerine  <terim name="BONO">  hazine bonosu </terim> denir
+Bugün artık fiziksel olarak basılmamakta, tamamen <terim name="BONO">kaydi</terim> olarak ihraç edilmektedir.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+  <terim name="BONO">Kuponsuz </terim> olduklarından <terim name="BONO">  kuponsuz </terim> sabit getirili menkul kıymet türü olarak da  ifade edilirler.
+ Ülkemizde bononun özelliklerini şöyle sıralayabiliriz:
+1)	Üzerinde vade tarihi yazar.
+2)	<terim name="DEVLET TAHVİLLERİ">Nominal tutar </terim>: Vadesinde  <terim name="İHRAÇ">   ihraççı</terim> tarafından <terim name="İTFA"> itfa </terim> sırasında ödenecek olan tutar (hesaplamalarda bu tutar 100 Türk Lirası olarak kabul edilir).
+Bunların dışında üzerlerinde hiç bir ibare bulunmaz. İhraç sırasında alınırken veya daha sonra alım satıma konu olurken ödenecek veya tahsil edilecek tutar <terim name="DEVLET TAHVİLLERİ"> (ana para) </terim> nominal tutarın o anki piyasa getiri oranından iskonto edilmesi suretiyle hesaplanır. Hesaplama yapılırken ya her 100 Türk Lirası nominal tutar için birim fiyattan yola çıkılarak ya da doğrudan nominal tutarın piyasa <terim name="GETİRİ ORANI">  getiri </terim> oranından  <terim name="DEVLET TAHVİLLERİ">     iskonto </terim> edilmesiyle bulunur.
+Hazine bonoları işlem gördüklerinde bir yıl 365 gün olarak ele alınır.
+]]>
+</long-description>
+</directory>

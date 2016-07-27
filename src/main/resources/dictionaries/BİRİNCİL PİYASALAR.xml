@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BİRİNCİL PİYASALAR</name>
+<name-en>Primary Stock/Bond Market</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+
+<short-description>
+    <![CDATA[
+Fon  <terim name="TALEP">talep </terim> edenlerle fon  <terim name="ARZ"> arz </terim> edenlerin doğrudan doğruya veya bir <terim name="FİNANSAL ARACILAR"> finansal ara </terim> cı vasıtasıyla bir araya geldikleri <terim name="BİRİNCİL PİYASALAR"> finansal piyasalar birincil piyasalar </terim> olarak adlandırılır.]]>
+</short-description>
+<long-description>
+    <![CDATA[
+Örneğin Garanti Bankası’nın  <terim name="BONO">  bono </terim> ihraç ederek <terim name="BİRİNCİL PİYASALAR">  halka arz </terim> yoluyla   <terim name="BİRİNCİL PİYASALAR"> yatırımcılara </terim> satması, T.C. Hazinesi’nin<terim name="BİRİNCİL PİYASALAR">  hazine ihalesi </terim> düzenleyerek  <terim name="DİBS"> DİBS </terim> veya <terim name="BİRİNCİL PİYASALAR"> kira sertifikası </terim> satması,<terim name="BIST">  BİST’de işlem gören ve / veya görmeyen bir şirketin  <terim name="PAY(HİSSE)SENETLERİ"> pay (hisse) senetlerini </terim> halka arz etmesi  birincil piyasa işlemlerindendir.
+]]>
+</long-description>
+</directory>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>AÇIĞA SATIŞ</name>
+<name-en>Shorting</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description><![CDATA[
+Sahip olunmayan bir yatırım aracının <terim name="spot piyasalar">spot piyasalarda</terim> aynı gün veya ileri bir tarihte geri alınmak üzere satılmasıdır.]]>
+</short-description>
+<long-description>
+<![CDATA[
+Eğer satılan yatırım aracının ileri bir tarihte geri alınması düşünülüyorsa, gün sonunda karşı tarafa teslim edilmesi gerekir. Bu yüzden satılan yatırım aracının üçüncü taraflardan ödünç alınması gerekir. Bunun da bir maliyeti vardır. 
+Açığa satışa konu olan yatırım aracının teslimatında sorunlarla karşılaşmamak için, yani bir <terim name="ÜLKE RİSKİ">kredi risk</terim> konusu oluşmaması için <terim name="ORGANİZE PİYASALAR">organize finansal piyasalarda</terim> bu tür işlemler belirli sınırlamalara ve kurallara tabidirler.
+Örneğin ülkemizde <terim name="MENKUL KIYMETLER">menkul kıymetlerin</terim> açığa satışı için SPK'nın yapmış olduğu bir takım düzenlemeler vardır.
+]]>
+</long-description>
+</directory>

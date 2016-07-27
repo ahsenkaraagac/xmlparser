@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>CARİ DENGE</name>
+<name-en>current account</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description> 
+<![CDATA[
+<terim name="ÖDEMELER DENGESİ">  Ödemeler dengesinin </terim> ana kısımlarından biridir. Bir ülkenin diğer ülkelerle yapmış olduğu her türlü ticareti gösterir. 
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Alt başlıklarını dış ticaret dengesi (mal dengesi), hizmetler dengesi ve <terim name="NET DIŞ ALEM VE FAKTÖR GELİRLERİ"> net dış alem ve faktör gelirleri (NDAFG) </terim> olarak isimlendirebiliriz.
+Dış ticaret dengesi mal <terim name="İHRACAT">  ihracat </terim> ve <terim name="İTHALAT"> ithalat </terim> tutarları arasındaki farktır. Eğer ihracat ithalattan fazla ise dış ticaret fazlası, aksi durumda ise dış ticaret açığı olışur.
+Hizmetler dengesi başta net turizm gelirleri, <terim name="SİGORTA">  sigortacılık </terim>, uluslararası nakliye, faiz gelir ve giderleri yaratmayan finansal hizmetler ile yurt dışı mütahitlik gelirlerinden oluşur.
+Bir ülke cari açık vermişse yurt dışından sermaye girişi olmuş ya da var olan <terim name="DÖVİZKURU">  döviz </terim> rezervleri kullanılmış demektir. Eğer cari fazla vermişse yurt dışına sermaye yatırımı olmuş veya döviz rezervleri artmış demektir.
+]]>
+</long-description>
+</directory>

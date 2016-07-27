@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>AVRO BÖLGESİ</name>
+<name-en>Euro Zone</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>	
+<short-description>
+<![CDATA[<terim name="EURO">Euro’yu</terim> ortak para birim olarak kullanan ve <terim name="AVRUPA BİRLİĞİ(AB)">Avrupa Birliği (AB)</terim> 
+üyesi ülkelerin bir kısmının oluşturmuş olduğu parasal birliktir.]]>
+</short-description>
+<long-description>
+<![CDATA[
+Nisan 2016 itibariyle 19 AB ülkesi Avro Bölgesi’ni oluşturmaktadır. Bu ülkeler ve katılma yılları aşağıdaki gibidir:
+
+1)	Almanya, 1 Ocak 1999
+2)	Avusturya, 1 Ocak 1999
+3)	Belçika, 1 Ocak 1999
+4)	Estonya, 1 Ocak 2011
+5)	Finlandiya, 1 Ocak 1999
+6)	Fransa, 1 Ocak 1999
+7)	Hollanda, 1 Ocak 1999
+8)	İrlanda, 1 Ocak 1999
+9)	İspanya, 1 Ocak 1999
+10)	İtalya, 1 Ocak 1999
+11)	Kıbrıs Rum Kesimi, 1 Ocak 2008
+12)	Letonya, 1 Ocak 2015
+13)	Litvanya, 1 Ocak 2014
+14)	Lüksemburg, 1 Ocak 1999
+15)	Malta, 1 Ocak 2008
+16)	Portekiz, 1 Ocak 1999
+17)	Slovakya, 1 Ocak 2009
+18)	Slovenya, 1 Ocak 2007
+19)	Yunanistan, 1 Ocak 2001]]>
+</long-description>
+</directory>

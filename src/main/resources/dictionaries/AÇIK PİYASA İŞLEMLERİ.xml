@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>AÇIK PİYASA İŞLEMLERİ(APİ)</name>
+<name-en>Open-market operations</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<short-description>
+<![CDATA[
+<terim name="MERKEZ BANKASI">Merkez bankalarının para politikası</terim> araç gruplarından birisidir. <terim name="FİNANSAL PİYASALAR">Finansal piyasalarda</terim> merkez bankalarının finansal aktörlerle yapmış oldukları borç alma ve verme işlemleridir. Bu nedenle piyasaya geçici olarak <terim name="LİKİTİDE">likidite</terim> olarak verilmesi veya piyasadan geçici olarak likidite çekilmesine neden olurlar. <terim name="PARA ARZI">Para arzının</terim> bileşenlerinden olan ve merkez bankasının yaratmış olduğu <terim name="REZERV PARA">rezerv paranın</terim> miktarının yönetilmesi ile ilgili para politikası araçları grubundandır.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Ülkemizde <terim name="TCMB">TCMB</terim> Kanunu’na göre APİ’lerin vadesi 91 günden fazla olamaz. APİ’lere vade sınırlamasının getirilmesinin nedeni, etkilerinin geçici olmasının istenmesi amacıyla para politikası uygulamalarında esneklik sağlamalarıdır. Finansal piyasalarda likidite ihtiyacı varsa ve bu ihtiyaç kalıcı olarak merkez bankasınca çeşitli nedenlerle karşılanmak istenmiyorsa veya finansal piyasalarda bir likidite fazlası varsa ve çeşitli nedenlerle merkez bankasınca kalıcı olarak çekilmek istenmiyorsa en çok kullanılan para politikası araçlarından olmaktadır.
+Merkez bankasının piyasaya borç vermesi finansal piyasadaki likiditeyi geçici olarak arttırırken, merkez bankasının piyasadan borç alması finansal piyasadaki likiditeyi azaltır.
+APİ işlemlerinin vadesi ne kadar kısa olursa merkez bankasının likidite üzerindeki kontrolü o kadar fazla olur. Keza, merkez bankasının finansal piyasa aktörlerinden alacaklı olması da para politikası uygulamasında daha etkin olmasını sağlar.
+APİ işlemlerine örnek olarak merkez bankalarının finansal piyasadaki aktörlerle yapmış olduğu doğrudan borç alma ve verme işlemleri (örneğin TCMB Interbank <terim name="PARA PİYASALARI">Para Piyasası</terim>ve gerektiğinde TCMB atarfından açılabilecek borç alma veya verme ihaleleri), <terim name="REPO - TERS REPO">repo – ters repo</terim> işlemleri ile merkez bankasınca ihraç edilebilecek <terim name="SABİT GETİRİLİ MENKUL KIYMETLER">sabit getirili menkul kıymetler</terim> (örneğin TCMB likidite senetleri ihraç edebilir ve finansal piyasalardan likidite çekebilir) verilebilir.
+]]>
+</long-description>
+</directory>

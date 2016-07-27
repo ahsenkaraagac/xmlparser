@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>ALTIN STANDARDI</name>
+<name-en>Gold standard</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Yaratılan paranın karşılığının önceden belirlenmiş nitelik ve kalitede <terim name="ALTIN">altınla</terim> serbestçe değiştirilmesi esasına dayanmaktadır. Aynı zamanda <terim name="SABİT DÖVİZ KURU REJİMİ">sabit kur</terim> politikalarından biridir.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Altın standardı uygulamasında merkez bankasınca yaratılan yerel para cinsinden <terim name="LİKİTİDE TUZAĞI">likiditenin</terim> her zaman belirli bir standartta altın karşılığı olması gerekmekteydi. <terim name="MERKEZ BANKASI">Merkez bankası</terim> sabit bir yerel parayı altına dönüştürmeyi taahhüt etmekteydi.
+Altın standardı 19. yy.'ın dördüncü çeyreği ile 1. Dünya Savaşı'na kadar kullanılmıştır. Savaşla birlikte ve savaştan sonra ülkeler altın standardını terk etmişler veya terk etmeye zorlanarak para birimlerini birbirlerine karşı <terim name="DEVALÜASYON">devalüe</terim> etmeye çalışmışlardır.
+2. Dünya Savaşı'nın bitiminden 1973'e kadar uygulanan <terim name="BRETTON WOODS">Bretton Woods sistemini</terim> de altın standardı uygulamasına örnek gösterebiliriz.
+]]>
+</long-description>
+</directory>

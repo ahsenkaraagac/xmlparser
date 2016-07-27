@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BROKER</name>
+<name-en>broker</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Finansal piyasalarda işlem yapan tarafların sadece emrini ilgili piyasalara ileten gerçek kişi veya <terim name="FİNANSAL ARACILAR"> finansal aracıya </terim> denir.
+]]>
+</short-description>
+<long-description> 
+<![CDATA[
+Broker tüm finansal işlemleri hep müşterileri adına gerçekleştirir. Kendi adına başka finansal kurumlarla veya müşterilerle işlem yapmaz.
+Ülkemizde sadece emir iletimine aracılık faaliyet izni olan aracı kurumlar kurumsal brokerlere örnek olarak gösterilebilir.
+]]>
+</long-description>
+</directory>

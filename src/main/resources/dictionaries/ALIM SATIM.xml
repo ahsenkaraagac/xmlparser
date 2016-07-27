@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>ALIM SATIM</name>
+<name-en>Trade</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+<terim name="FİNANSAL PİYASALAR">Finansal piyasalarda yatırım ürünlerinin</terim> veya <terim name="FİNANSAL ÜRÜNLER">finansal ürünlerin</terim> gerek <terim name="İHRACAT">ihraççılarla</terim> yatırımcılar arasında gerekse yatırımcılar arasında para veya başka yatırım araçları veya finansal ürünler karşılığında el değiştirmesi işlemidir.]]>
+</short-description>
+    <long-description></long-description>
+</directory>

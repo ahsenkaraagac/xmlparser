@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BETA</name>
+<name-en>Beta</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+    <short-description></short-description>
+<long-description>
+<![CDATA[
+Portföy oluşturmada yatırımcıları ilgilendiren temel göstergelerden biri hisse senetlerinin beta katsayısıdır. <terim name="SİSTEMATİK RİSK">Sistematik risk</terim>, bizim dışımızda gelişen etkenlerden oluştuğundan olduğundan portföyün çeşitlendirilmesiyle bu riskten kaçınmak mümkün değildir. Ama<terim name="SİSTEMATİK RİSK"> sistematik riski</terim> yönetebilir ve kontrol edebiliriz. Bunun da en basit yolu bütün yumurtaları aynı sepete koymamak ve farklı menkul kıymetlerin bir araya gelmesiyle oluşan bir portföy oluşturmaktır. Böylece  sistematik olmayan riski minimize edebiliriz.
+Ekonomideki bazı gelişmeler, pazardaki tüm hisse senetlerinin getirisini aynı yönde etkiler.Örneğin, faiz oranlarındaki düşüş, GSMH'nın yükselişi, emisyon artışı gibi olaylar, hisse senetlerini olan talebi dolayısıyla hisse senetlerinin fiyatlarını arttırır. Faiz oranlarının yükselmesi, döviz fiyatlarındaki artış gibi olaylar, hisse senetlerine olan talebi azaltacağı için fiyatların düşmesine neden olur.
+Beta katsayısı, herhangi bir hisse senedinin pazardaki dalgalanmalara karşı duyarlılığının bir ölçüsüdür. Bir başka değişle, menkul kıymetin portföy içindeki payının bir birim arttırlması sonucu, portföyün<terim name="STANDART SAPMA"> varyans</terim> değerinde meydana gelen değişmeyi ifade eder.
+Yatırımcılar hisse senedi analizi yaparken, her hisse senedinin kendine özgü, yani pazardan bağımsız koşulları yanında pazarla olan bağımlılık derecelerini de incelemelidirler. Portföyün beta katsayısı, tek tek menkul kıymetlerin ağırlıklı ortalaması olarak tanımlanabilir.
+ß katsayısı aşağıdaki formülle gösterilir.
+ßi = Cov(i,m)/ Var(m)
+Burada i, hisse senedi ve piyasa portföyü arasındaki kovaryansın piyasa portföyü varsansına oranı, ßi katsayısını veya yatırımcı tarafından istenen risk primini vermektedir. Beta katsayısı , bir hisse senedinin getirisinin hisse senedi pazarının bir bütün olarak getirisine paralel bir değişme gösterip göstermediğini ortaya koymaktadır.
+Portföye alınacak menkul kıymetlerin seçiminde, beta katsayısından yararlanılabilir. Hisse senedi piyasasının genel beta katsayısı 1 olarak alındığında ve diğer hisse senetlerinin ß katsayıları bu değere bağlı olarak hesaplandığında, o hisse senedinin pazardaki değişmelere karşı duyarlılığı hesaplanmış olur.
+Eğer ß>1 ise, portföyün getirisinde, piyasanın getirisindeki değişme ile aynı yönde ve ondan daha büyük bir değişme olacaktır.Bu tür hisse senetlerine atak hisse senetleri denir ve pazara karşı duyarlılıkları fazladır. Pazar portföyünün getirinde %1 artış olduğunda bu hisse senetlerinin getirinde artış % 1'den fazla olur.Başka bir değişle, borsada fiyat artışları olduğunda, bu hisse senetlerinin fiyat artışı ortalama artışın üzerinde gerçekleşir.
+Eğer + 1 >ß> -1 ise,portföyün getirinde, piyasanın getirisindeki değişmeden daha küçük bir değişme olacaktır.
+Eğer ß< -1 ise, portföyün getisinde piyasanın getirindeki değişme ile ters yönde ve ondan daha büyük bir değişme olur. Beta katsayıları 1'den küçük olan ve tutucu diye adlandırılan hisse senetlerinin pazara karşı duyarlılıkları zayıftır. Pazar portföyünün getirindeki % 1 artış, bu hisse senetlerinin getirisinde daha düşük bir artışa neden olur. Diğer bir değişle borsada fiyatlar yükselirken bu hisse senetlerindeki fiyat artışı ortalama artıştan fazla, fiyatlar düşerken bu hisse senetlerindeki fiyat düşüşü ortalamadan daha az olur.
+
+]]>
+</long-description>
+</directory>

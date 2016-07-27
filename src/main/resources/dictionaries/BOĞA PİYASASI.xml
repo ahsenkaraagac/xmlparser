@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BOĞA PİYASASI</name>
+<name-en>Bull</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+<terim name="FİNANSAL PİYASLAR"> Finansal piyasalarda </terim> herhangi bir finansal varlıkla veya piyasasının geneli ile ilgili olarak <terim name="FİYAT"> fiyatların </terim> genel olarak artma durumunda ve eğiliminde olmasını işaret eden bir kavramdır.
+Boğa piyasası genellikle <terim name="KURUMSAL YATIRIMCILAR"> yatırımcıların </terim> çoğunluğunun ilgili finansal varlıkla veya piyasanın geneli ile ilgili iyimser beklentilere sahip olmalarıyla ortaya çıkar.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Örneğin bir şirketin finansal durumuyla ya da yönetimiyle ilgili olarak yatırımcıların algılamaları iyimserliğe dönüşürse o şirketin ihraç etmiş olduğu <terim name="pay(hisse) senetleri">  pay (hisse) senedinin </terim>,<terim name="TAHVİL"> tahvilinin </terim> ya da <terim name="BONO"> bonosunun </terim> fiyatları artma eğilimine girebilir.
+İyimserlik sadece bir <terim name="İHRAÇ"> ihraççıya </terim> ya da onun <terim name="İHRAÇ">  ihraç </terim> etmiş olduğu bir finansal varlığa değil genel olarak aynı türdeki finansal varlıkların tümüne ve hatta tüm finansal varlık sınıflarına da yayılabilir. Bunun sebepleri ülke ekonomisinin veya küresel <terim name="EKONOMİ"> ekonominin </terim> büyüme trendine girmesi veya bu yöndeki beklentiler, yurtiçi veya uluslararası siyasi gelişmeler olabilir. 
+]]>
+</long-description>
+</directory>

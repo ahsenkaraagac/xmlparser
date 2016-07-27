@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>İŞGÜCÜNE KATILIM ORANI</name>
+<name-en>İŞGÜCÜNE KATILIM ORANI</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Bir ülke nüfusunun çalışma çağında olduğu kabul edilen nüfusunun çalışma arzusunda olup işsiz olanlarla halen çalışmakta olanların oluşturmuş oldukları toplama işgücü denir. İşgücünün çalışma çağındaki nüfusa oranına da işgücüne katılım oranı denir.
+]]>
+</short-description>
+    <long-description></long-description>
+    </directory>

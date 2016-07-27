@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>GELİR</name>
+<name-en>Income</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Belirli bir mal veya hizmetin(ürün) satılması ya da bir hizmetin yerine getirilmesi karşısında elde edilen kazancın parasal ifadesidir.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Bir şirket için ana gelir kalemi yapmış olduğu ürün satışlarının parasal karşılığıdır. Bir ücretli veya maaşlı çalışan için aylık olarak elde ettiği kazancın parasal ifadesidir.
+Gelirleri brüt ve net gelirler olarak genelde ikiye ayırmak mümkündür.
+Bir şirket için brüt gelir yapmış olduğu satışların parasal tutarı olurken, bir ücretli veya maaşlı için <terim name="GELİR VERGİSİ">gelir vergisi</terim> ve sosyal güvenlik kesintileri yapılmadan önceki gelir anlamına gelmektedir.
+Şirketler elde ettikleri satış gelirlerinden satılan malın maliyetini düştükten sonra brüt kar rakamına ulaşılır. Brüt kar rakamından şirketin faaliyetleri ve finansman nedeniyle yüklendikleri giderler düşüldükten sonra vergi öncesi kar rakamına; buradan da ödenecek olan kurumlar vergisi düşüldükten sonra ise net kar rakamına ulaşılır.
+Ücretliler ile maaşlılardan gelir vergisi ve sosyal güvenlik kesintileri yapıldıktan sonraki haline de net ücret veya maaş denir. Bu gelire harcanabilir gelir de denilebilir.
+]]>
+</long-description>
+</directory>

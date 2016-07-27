@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BETA KATSAYISI</name>
+<name-en>Beta coefficient</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Portföy oluşturmada <terim name="YATIRIM">yatırımcıları</terim> ilgilendiren temel göstergelerden biri <terim name="RİSKSİZ YATIRIM ARACI">yatırım araçlarının</terim>  sistematik risklerini ölçümlemede beta katsayısıdır.]]>
+</short-description>
+<long-description>
+<![CDATA[
+Sistematik <terim name="RİSKSİZ YATIRIM ARACI">risk yatım</terim> aracına bağlı olmadığından <terim name="FİNANSAL PİYASALAR">finansal piyasaların</terim> genelini ilgilendirdiğinden <terim name="PORTFÖY ÇEŞİTLENDİRMESİ">portföy çeşitlendirilmesiyle</terim> bu riskten kaçınmak mümkün değildir. Ama <terim name="SİSTEMATİK OLMAYAN RİSK">sistematik olmayan riski</terim> yönetebilir ve kontrol edebiliriz. Bunun da en basit yolu bütün yumurtaları aynı sepete koymamak ve farklı yatırım araçlarının bir araya gelmesiyle oluşan bir portföy oluşturmaktır. Böylece  sistematik olmayan riski minimize edebiliriz 
+Beta katsayısı analizi Sharpe tarafından <terim name="MARKOWITZ MODERN PORTFÖY TEORİSİ">Markowitz Modern Portföy Teorisi</terim>’nden yola çıkarak geliştirmiş olduğu <terim name="FİNANSAL VARLIK FİYATLAMA MODELİ(FVFM-CAPM)">Finansal Varlık Fiyatlama Modeli’nin (FVFM – CAPM)</terim> belkemiğini oluşturmaktadır. 
+<terim name="EKONOMİ">Ekonomideki</terim> bazı gelişmeler, finansal piyasalardaki yatırım araçlarının <terim name="RİSKSİZ YATIRIM ARACI">getirisini</terim> farklı yönde  etkiler. Örneğin, <terim name="FAİZ VE REEL GAYRİ SAFİ YURTİÇİ HASILA(REEL GSYH)">faiz oranlarındaki</terim> düşüş, <terim name="YATIRIM">GSYH</terim>'nın yükselişi, <terim name="LİKİTİDE">likidite</terim> artışı gibi olaylar, <terim name="HİSSE SENETLERİ">pay (hisse) senetlerine</terim> olan talebi dolayısıyla pay senetlerinin fiyatlarını arttırabilir. Faiz oranlarının yükselmesi, <terim name="DÖVİZ">döviz</terim> fiyatlarındaki artış gibi olaylar, pay senetlerine olan talebi azaltabileceği için fiyatların düşmesine neden olabilir.  
+Beta katsayısı, herhangi bir yatırım aracının finasal piyasalardaki dalgalanmalara karşı duyarlılığının bir ölçüsüdür. Bir başka değişle, yatırım aracının portföy içindeki payının bir birim arttırlması sonucu, portföyün <terim name="STANDART SAPMA">varyans</terim> değerinde meydana gelen değişmeyi ifade eder. 
+Yatırımcılar yatarım aracıyle ilgili analizi yaparken, her yatırım aracının kendine özgü, yani finasal piyasalardan bağımsız olan koşullar yanında bu piyasalarla olan bağımlılık derecelerini de incelemelidirler. Portföyün beta katsayısı, tek tek yatırım araçlarının beta katsayılarının ağırlıklı ortalaması olarak tanımlanabilir. 
+Beta katsayısı aşağıdaki formülle gösterilir. 
+ßi = Cov(i,m)/ Var(m) 
+Burada i, herhangi bir yatırım aracını, Cov(i,m) o yatırım aracının getirisi ile  piyasadaki yatarım araçlarının tümünü kapsayan portföyün getirisi  arasındaki <terim name="SHARPE PERFORMANS ÖLÇÜTÜ">kovaryansı</terim>, Var(m) piyasa portföyünün getirilerinin varsansını, ßi betakatsayısını ifade etmektedir. 
+Beta katsayısı , bir yatırım aracının getirisinin finansal piyasaların bir  bütün olarak getirisine bağlı olarak hangi yönde ve kuvvette değiştiğini gösterir. 
+Portföye alınacak yatırım araçlarının seçiminde, beta katsayısından yararlanılabilir
+Eğer bir yatırım aracının beta katsayısı 1’den büyükse, bu yatırım aracının getirisinde, piyasanın getirisindeki değişme ile aynı yönde ve ondan daha büyük bir değişme olacaktır. Bu tür yatırım araçlarına atak yatırım araçları denir Bu tür yatırım araçlarının piyasaya karşı duyarlılıkları fazladır. Piyasa portföyünün getirinde %1 artış olduğunda bu yatırım aracının getirinde artış % 1'den fazla olur. Başka bir değişle, piyasa porföyünün getirisinde %1’lik bir düşüş olursa bu yatırım aracının getirisi de %1’den fazla düşer.
+Eğer bir yatırım aracının beta katsasısı 1 ise, bu yatırım aracının getirisinde, piyasa portföyünün getirisindeki değişme ile aynı yönde ve oranda bir değişme olacaktır. Piyasa portföyünün getirinde %1 artış olduğunda bu yatırım aracının getirinde de artış % 1 olur. Başka bir değişle, piyasa porföyünün getirisinde %1’lik bir düşüş olursa bu yatırım aracının getirisi de %1 düşer.
+Eğer beta katsaysı sıfır 0 ise yatırım aracının getirindeki değişim ile piyasanın getirisindeki değişme arasında hiç bir ilişki olamayacak, bu yatırım aracını fiyatındaki dalgalanmanın nedenleri tamamıyla sistematik olmayan risk faktörleri olacaktır (böyle bir durum pratikte neredeyse hiç görülmez).
+Eğer beta katsasyısı sıfır ile 1 arasında bir değer alırsa, yatırım aracınının getirisindeki değişim piyasa portföyünün getirisindeki değişimle aynı yönde ama daha az etkilenir olacak demektir. 
+Eğer ßeta -1’den küçük ise, yatırım aracının getirisinde, piyasa portföyünün getirisindeki değişme ile ters yönde ve ondan daha büyük bir değişme olacaktır. Bu tür yatırım araçlarının piyasaya karşı duyarlılıkları fazladır. Piyasa portföyünün getirinde %1 artış olduğunda bu yatırım aracının getirinde düşüş % 1'den fazla olur. Başka bir değişle, piyasa porföyünün getirisinde %1’lik bir düşüş olursa bu yatırım aracının getirisi de %1’den fazla artar.
+Eğer bir yatırım aracının beta katsayısı -1 ise, bu yatırım aracının getirisinde, piyasa portföyünün getirisindeki değişme ile zıt yönde ve aynı oranda bir değişme olacaktır. Piyasa portföyünün getirinde %1 artış olduğunda bu yatırım aracının getirindeki azalış %1 olur. Başka bir değişle, piyasa porföyünün getirisinde %1’lik bir düşüş olursa bu yatırım aracının getirisi  %1 artar.
+Eğer beta katsasyısı sıfır ile -1 arasında bir değer alırsa, yatırım aracınının getirisindeki değişim piyasa portföyünün getirisindeki değişimle zıt yönde ama daha az etkilenir demektir. 
+]]>
+
+</long-description>
+</directory>

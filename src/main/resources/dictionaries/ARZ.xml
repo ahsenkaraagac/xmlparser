@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>ARZ</name>
+<name-en>Supply</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description><![CDATA[
+Belirli bir mal veya hizmeti (ürün) veya genel olarak ürünleri üretme ve satma eğilimidir.]]>
+</short-description>
+<long-description>
+<![CDATA[
+<terim name="EKONOMİ">Ekonomi</terim> teorisinde ürün <terim name="FİYAT">fiyatlarıyla</terim> arz edilen miktar arasında aynı yönde bir ilişki olduğu kabul edilir. Diğer bir deyişle bir ürünün fiyatı artarsa arz edilen miktarı artar; fiyatı düşerse talep edilen miktar azalır.
+Bu durum aşağıdaki grafikte gösterilmiştir.
+<img src="XML/sozluk/img/arz.jpg"></img>
+Arzı ürün fiyatının dışında da başka faktörler etkileyebilir. Üretim faktörlerinin fiyatlarındaki (hammadde maliyetleri, işgücü maliyetleri, finansman maliyetleri) artışlar ile arz arasında ters bir ilişkiden söz edilebilir. Bu durumda üretim maliyetlerindeki artışlar satış fiyatı değişmezse kar marjının azalmasına sebep olacağından bir takım satıcılar ve üreticiler piyasadan çeklilerek arzın azalmasına sebep olabilirler. Bu durumda arz eğirisi aşağıdaki gibi sola layar. Üretim faktörlerinin fiyatlarında bir düşüş olduğunda ise tam tersi bir durum gerçekleşebilir. Bu durumda ise arz eğrisi sağa kayar.
+Doğal afetler, işçi işveren ilişkilerinin kötüleşmesi gibi durumlarda arzın azalmasına neden olabilir. Bu durumda da aşağıdaki grafikte gösterildiği gibi arz eğrisi sağa kayar.
+Teknolojik yenilkler dolayısyla üretim tekniklerindeki gelişmeler kapasite oranlarının artmasına sebep olursa arz edilebilecek ürün miktarı artar. Böyle bir durum aşağıdaki grafikte görüldüğü gibi arz eğrrisinin sağa kaymasına neden olur.
+Devletin uygulamış olduğu vergi oranları ile sübvansiyonlar arzı olumlu veya olumsuz etkileyebilir. Örneğin kurumlar vergisi oranlarının düşmesi karlılığı artıracağı için yeni üretimleri cazip kılabilir. Keza kurumlar vergisi oranlarının yükselmesi net karlılığı azaltırsa bazı üreticiler piyasadan çekilebilir. Üretilen ürünlerle ilgili üreticilere devlet destekleri girişimcilerin ilgisine çekerse arz edilen miktar artabilir. Olumsuz vergi ve diğer kamu politikaları arz eğrisini sola, olumlu uygulamalar ise arz eğrisinin sağa kaymasına neden olabilir.
+<img src="XML/sozluk/img/arz1.jpg"></img>
+]]>
+
+</long-description>
+</directory>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>ALMA HAKKI VEREN (CALL) OPSİYON</name>
+<name-en>ALMA HAKKI (CALL) OPSİYON</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Alıcısına ileri bir tarihte taraflarca tespit edilen bir <terim name="FİYAT">fiyattan</terim> (kullanım fiyatı) belirli bir dayanak varlığı alma hakkı veren opsiyon sözleşmesidir. Bu tür bir opsiyon sözleşmesi alan taraf kullanım fiyatından dayanak varlığı alabilir ama almak zorunda değildir. Ancak alım hakkı veren opsiyonun alıcısı dayanak varlığı kullanım fiyatından alma hakkını kullanmak isterse bu opsiyonu satan satıcı alıcıya ilgili dayanak varlığı kullanım fiyatından satmak zorunda kalır.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Alma hakkı opsiyon sözleşmesinin  <terim name="AVRUPA TİPİ OPSİYON">Avrupa tipi opsiyon</terim> veya <terim name="AMERİKAN TİPİ OPSİYON">Amerikan tipi opsiyon</terim> olmasına göre vadede veya vadeden önce kullanılabilir.
+Opsiyon işleminde insiyatif alıcının elinde olduğu için satıcı alıcıya göre çok daha fazla <terim name="RİSK">risk</terim> taşımaktadır. Bu yüzden vadede opsiyon hakkı alıcı tarafından kullanılsa da kullanılmasa da opsiyon işleminin alım satımı sırasında alıcı satıcıya mutlaka bir opsiyon primi öder. 
+Alıcının opsiyon işleminden dolayı kayıp miktarı en fazla ödediği <terim name="OPSİYON">opsiyon primi</terim> kadar olurken kazancı vadede dayanak varlığın fiyatının kullanım fiyatının ne kadar üzerinde olduğuna bağlı olarak artar. Satıcının ise en fazla kazancı tahsil etmiş olduğu opsiyon primi kadar olup zararı vadede dayanak varlığın fiyatının kullanım fiyatının ne kadar üzerinde olduğuna göre değişir. Teorik olarak dayanak varlığın fiyatı sonsuza kadar yükselebileceğinden kaybı da sonsuza kadar gidebilir.
+]]>
+</long-description>
+</directory>

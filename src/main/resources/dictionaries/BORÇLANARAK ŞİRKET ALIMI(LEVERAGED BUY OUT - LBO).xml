@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BORÇLANARAK ŞİRKET ALIMI(LEVERAGED BY OUT-LBO)</name>
+<name-en>leveraged by out</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Halka açık olan veya olmayan bir şirketin <terim name="PAY(HİSSE) SENETLERİ"> pay (hisse) senetlerinin </terim> o şirketin yönetim kontrolünü sağlayacak şekilde satın alanların bu işlem için finansmanının bir kısmını kendi <terim name="ÖZKAYNAK"> özkaynaklarıyla </terim> geri kalanını ise borçlanma <terim name="KALDIRAÇ">(kaldıraç) </terim> yoluyla finanse etmeleri işlemidir.
+]]>
+</short-description>
+<long-description> 
+<![CDATA[
+LBO'larda yabancı kaynak finansmanı finansal kuruluşlarca sağlanır. Borcun geri ödenmesini garanti altın almak için satın alınan pay senetleri bu finansal kurumlara rehin olarak verilir. Ayrıca şirketin ileride elde etmesi beklenen getirileri de bu işlem için finansal kurumlara temlik edilir.
+Satın alan yatırımcılar, finansmanının bir kısmını borçlanarak yaptıklarından kaldıraç etkisinden faydalanabilirler. Satın aldıkları şirketin başarılı olması durumunda özkaynak karlılıkları artacaktır. Ancak tam tersi bir durumda ise kaldıraç aleyhlerine çalışacaktır. Hatta satın aldıkları pay senetleri rehin olarak verildiğinden bu paylarını kaybedebileceklerdir. Bu konunun dünyada ilk nasıl başladığını merak ediyorsanız John Helyar ve Byran Burrough’ın yazdığı RJR Nabisco’nun satış öyküsünü anlatan “Barbarlar Kapıda” kitabını okuyabilirsiniz.
+]]>
+</long-description>
+</directory>

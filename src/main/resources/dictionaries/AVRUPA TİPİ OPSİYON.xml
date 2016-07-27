@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>AVRUPA TİPİ OPSİYON</name>
+<name-en>AVRUPA TİPİ OPSİYON</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>	
+<short-description>
+<![CDATA[
+Alıcısına opsiyon hakkının kullanım imkanını sadece vadede veren  <terim name="OPSİYON">opsiyon</terim> türüdür. 
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Bir başka tür opsiyon da  <terim name="AMERİKAN TİPİ OPSİYON">Amerikan tipi opsiyondur</terim>.
+Avrupa tipi opsiyonlar  <terim name="TEZGAHÜSTÜ PİYASALAR">genelde tezgahüstü finansal piyasalarda</terim> işlem görürler. Türkiye’de  <terim name="FİNANSAL PİYASALAR">organize finansal piyasa</terim> türlerinden olan  <terim name="BİST">BİST</terim>’de işlem gören opsiyon sözlşemeleri Avrupa tipi opsiyon sözleşmeleridir.
+]]>
+</long-description>
+</directory>

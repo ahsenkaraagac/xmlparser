@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>AMERİKAN TİPİ OPSİYON</name>
+<name-en>AMERİKAN TİPİ OPSİYON</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>
+    <short-description></short-description>
+<long-description>
+<![CDATA[
+Alıcısına <terim name="OPSİYON">opsiyon</terim> hakkının kullanım imkanını süresi boyunca opsiyon vade tarihi de dahil olmak üzere alıcının istediği zaman sadece bir kere kullanabildiği opsiyon türüdür.  Bir başka tür opsiyon da <terim name="AVRUPA TİPİ OPSİYON">Avrupa tipi opsiyondur</terim>.
+
+Amerikan tipi opsiyonlar genelde <terim name="ORGANİZE PİYASALAR">organize finansal piyasalarda</terim> işlem görürler.
+]]>
+</long-description>
+</directory>

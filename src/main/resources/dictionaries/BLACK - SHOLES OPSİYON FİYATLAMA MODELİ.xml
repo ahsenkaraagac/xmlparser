@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BLACK - SHOLES OPSİYON FİYATLAMA MODELİ</name>
+<name-en>BLACK - SHOLES OPTIONS PRICING MODEL</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+1973 yılında <terim name="KAR PAYI"> kar payı </terim> dağıtmayan<terim name="BLACK AND SHOLES">  pay (hisse) senetleri </terim>  üzerine <terim name="BLACK AND SHOLES"> Avrupa tipi opsiyonların </terim> fiyatlaması amacıyla Fisher Balck ve Mayron Sholes tarafından geliştirilen ve kendi adlarıyla anılan <terim name="OPSİYON">  opsiyon fiyatlama modelidir.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Her ne kadar pay senetleri için geliştirilmişlerse daha sonra bazı ilavelerle (örneğin Robert Merton'un döviz opsiyonları için yaptığı)tüm <terim name="BLACK AND SHOLES">yatırım araçları  </terim>  veya <terim name="FİNANSAL ÜRÜNLER"> finansal ürünler </terim>   üzerine Avrupa tipi opsiyonların fiyatlamasında da kullanılabilmektedir.
+En önemli varsayımı, yatırım araçlarının <terim name="BLACK AND SHOLES"> fiyatları </terim> ile <terim name="BEKLENEN GETİRİ ORANI"> getiri oranlarının </terim> dağılımının stokastik bir süreç izlemeleridir. Fiyatlar anlık ve sürekli olarak değişmekte ve yatırım araçları veya finansal ürünlerin fiyatları lognormal, getiri oranları da değişmez <terim name="STANDART SAPMA"> standart sapmalı </terim> , yani volatiliteli normal dağılım özelliği gösterir.
+Model dayanak varlık üzerine belirli miktar  <terim name="ALMA HAKKI (CALL) OPSİYON"> alım hakkı veren (call) opsiyon </terim>  ya da <terim name="SATMA HAKKI(PUT) OPSİYON"> satım hakkı veren (put) opsiyon  </terim> sözleşmesi ile belirli bir miktar dayanak varlık (buna opsiyonun deltası denir) pozisyonundan oluşan ve birbirlerini<terim name="HEDGE">  hedge </terim> edici şekilde <terim name="ARBİTRAJ">  arbitraj </terim> imkanı vermeyen risksiz bir <terim name="PORTFÖY"> portföy </terim>   oluşturulabileceğini gösterir. Bu yüzden gerektiğinde dayanak varlığın <terim name="AÇIĞA SATIŞ">   açığa satışında </terim>  hiçbir kısıtlama yoktur. Ayrıca hiç bir işlem maliyeti olmadığı gibi dayanak varlık miktarı da bölünebilir.
+Buradan yola çıkılarak opsiyonun primi hesaplanır. Önce kullanım fiyatı seçilir. Seçilen kullanım fiyatından vadede opsiyon hakkının kullanılması olasılığı hesaplanır ve bu olasılık dikkate alınarak kullanım fiyatı bugüne indirgenir. Fiyatlamaya model teşkil eden portföy risksiz olduğundan bugüne indirgeme işlemi <terim name="RİSKSİZ GETİRİ ORANI">  risksiz getiri oranından  </terim>   yapılır. Ayrıca  <terim name="SPOT FİYAT">  spot fiyatlar </terim> sürekli değiştiği varsayıldığı için risksiz getiri oranı da sürekli risksiz <terim name="black and sholes"> bileşik getiri oranıdır.</terim>
+İndirgenmiş olasılıklı kullanım fiyatı ile dayanak varlığın spot fiyatı arasındaki fark satma hakkı veren (put) opsiyon sözleşmesinin primi olurken; spot fiyat ile indirgenmiş olasılıklı kullanım fiyatı arasındaki fark da alma hakkı veren (call) opsiyon sözleşmesinin primi olmaktadır.
+]]>
+</long-description>
+</directory>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>HAREKETLİ ORTALAMALAR</name>
+<name-en>HAREKETLİ ORTALAMALAR</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Hareketli Ortalama (HO), belirlenmiş olan  bir süre için, bir serinin (her hangi yatırım aracı veya pariteye ait kapanış fiyatları serisi örnek gösterilebilir.) aldığı ortalama değerdir.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Günümüzde en çok kullanılan ve Teknik Analiz bilgisayar programları tarafından hesaplanıp grafiği çizdirilebilen beş çeşit hareketli ortalama vardır.  Bunlar basit hareketli ortalama, ağırlıklı hareketli ortalama, üssel hareketli ortalama, üçgensel hareketli ortalama ve değişgen hareketli ortalamadır. Bu yöntemler kullanılarak geçmiş fiyat hareketlerinin ortalamasına bakılarak şimdiki fiyat seviyesinin ortalamaya ne kadar yaklaştığı ve saptığı analiz edilir. Sapmalara bakılarak pozisyon alınır.
+Eğer hareketli ortalamaları uzun geçmişten itibaren alarak hesaplıyorsak, Al sinyali fiyatların hareketli ortalamayı yukarı doğru kırması ile gerçekleşir. Sat sinyali ise fiyatların hareketli ortalamyı aşağı doğru kırmasıyla gerçekleşir. Hareketli ortalama hesaplanırken kaç günlük hareketli ortalamanın alınacağı önemlidir.
+]]>
+</long-description>
+</directory>

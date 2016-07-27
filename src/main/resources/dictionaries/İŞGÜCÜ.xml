@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>İŞGÜCÜ</name>
+<name-en>İŞGÜCÜ</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+    <short-description></short-description>
+<long-description>
+<![CDATA[
+Bir ülke nüfusunun çalışma çağında olduğu kabul edilen nüfusunun çalışma arzusunda olup <terim name="GELİR VERGİSİ">işsiz</terim> olanlarla halen çalışmakta olanların oluşturmuş oldukları toplama işgücü denir. ]]>
+</long-description>
+</directory>

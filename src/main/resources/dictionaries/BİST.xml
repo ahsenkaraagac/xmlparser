@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BİST</name>
+<name-en>Bist</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Bakınız <terim name="BIST">  Borsa İstanbul A.Ş. </terim>
+]]>
+</short-description>
+    <long-description>
+    </long-description>
+</directory>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BEKLENEN FAYDA TEORİSİ VE KAYITSIZLIK EĞRİLERİ(NEUMANN VE MORGENSTERN)</name>
+<name-en>Utility</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Neumann ve Morgenstern tarafından riskli karar alma seçenekleriyle karşılaşanların rasyonel bireylerin nasıl beklenen faydalarını artırmaya çalıştıklarını veya artırmaları gerektiğini açıklayan bir teoremdir.]]>
+</short-description>
+<long-description>
+<![CDATA[
+Bu yaklaşım daha sonra Markowitz tarafından kendi geliştirmiş olduğu modern Portföy Teorisinin temel taşı olmuştur.
+Rasyonel bir yatırımcının amacı daima refahını en çoklamak olmalıdır. Bunun da yolu yatırımlardan beklenen getiri oranını artırmaktır. Ancak beklenen getiri oranı be kadar kesinlikten uzaklaşırsa bu oranın altında veya üstünde bir getiri oranı elde etmek mümkündür. Bu durumda risk artmaktadır. Eğer hiç risk almak istemiyorsa risksiz getiri oranından hiç bir riski olmayan yatırım aracına yatırım yapması gerekir. Ancak bu durumda da beklenen getiri diğer riskli yatırım seçeneklerine göre en düşük olacaktır.
+İşte yatırımcı risk ile beklenen getiri arasındaki bu ödünleşme ilişkisine bakarak kendisi için en uygun kararı vermesi gerekir.
+Ancak ana prensip hep aynıdır. Bir yatırımcı ne kadar risk almak istiyorsa istesin hep mümkün olduğunca riskten kaçarak beklenen getiri oranının artırmaya çalışmalıdır.
+Beklenen fayda ile refah seviyesi arasındaki ilişkiye göre rasyonel olan her yatırımcı daha fazla refah seviyesini daha az refah seviyesine göre tercih edecektir. Her biri birimlik refah artışı yatırımcının sağladığı beklenen faydayı artırır.
+Ancak her biri birimlik artıştan sağladığı ilave beklenen fayda, yani marjinal beklenen fayda düşmektedir. Diğer bir değişle refah seviyesi yüksek olan bir kişinin refah seviyesi kendisinden düşük olana göre sağladığı ilave bir birim refah artışının kendisine sağlamış olduğu beklenen fayda daha düşüktür. Çünkü ilave her bir birimlik beklenen fayda için daha fazla risk alması gerekmektedir. Yatırımcılar daha az riskli sonuçları daha fazla riskli sonuçlara göre tercih ederler. O yüzden  beklenen fayda ile refah düzeyi arasındaki ilişki azalan eğilimli bir fonksiyondur. Rasyonel yatırımcı riskten kaçınan yatırımcıdır.
+<img src="XML/sozluk/img/beklenen fayda.jpg"></img>
+Örneğin iki adet 100 Türk Lira'lık yatırım alternatifi olsun. Bunlardan biri 1 yıl vadeli mevduat yaparak %12 faiz oranı kazanmak, diğeri de  %50 olasılıkla %24 veya sıfır kazanma imkanı sunan bir pay (hisse) senedi yatırımı olsun. Her iki yatırımın beklenen getiri oranı da %12'dir. Yani yatırımcının refahını aynı oranda artırmaktadır. Ancak mevduatın beklenen getiri oranı  kesindir, yani riski yok kabul edebiliriz. Ancak pay senedinin beklenen getirisi kesin değildir ve ortada riskli bir durum söz konusudur. Riskten kaçınma eğiliminde olan bir yatırımcı beklenen getiri oranları aynı olan iki yatırım seçeneği arasından mevduatı seçecektir. Diğer bir ifade ile mevduat yatırımının sağladığı marjinal beklenen fayda pay senesi yatırımının sağlayacağı marjinal beklenen yatırımdan daha fazla olacaktır. 
+Kayıtsızlık eğrileri yatırımların şeçiminde değişik risk düzeyleri  ile beklenen getiri oranı kombinasyonlarından aynı faydayı sağlayan kombinasyonları ifade eder.
+<img src="XML/sozluk/img/beklenen fayda1.jpg"></img>
+Yukarıdaki grafikte bir yatırımcının aynı beklenen faydayı sağlayan değişik beklenen getiri oranı ve risk düzeylerinden yola çıkarak oluşturulmuş olan kayıtsızlık eğrilerinden bir tanesi gösterilmiştir. 
+Yatırımcılar beklenen faydayı mümkün olduğunca arttırmak isteyeceklerinden bu kayıtsızlık eğrisinin üzerinde yukarı doğru sonsuz sayıda kayıtsızlık eğrisi oluşturulabilir. 
+Bu kayıtsızlık eğrilerinin beklenen getiri ve risk düzeyine bağlı olarak oluşturulan etkin portföy kümesi grafiğinin eğrisi üzerindeki kestiği noktalar çeşitli riskleri almaya hazır olan ama mümkün olduğunca riskten kaçınan yatırımcılar için beklenen faydanın en fazla olduğu yatırım seçenekleri olacaklardır.
+<img src="XML/sozluk/img/beklenen fayda2.jpg"></img>
+Düşük risk arak daha düşük beklenen getiri oranına razı olan  bir yatırımcının kayıtsızlık eğrileri kırmızı, daha makul risk alarak beklenen getri oranını artırmak isteyen yatırımcının kayıtsızlık eğrileri kırmızı ve çok fazla risk alarak en yüksek beklenen getiri oranı elde etmek isteyen yatırımcının kayıtsızlık eğrileri de kiremit renginde gösterilmiştir. Bu kayıtsızlık eğrilerinden beklenen getiri oranı ve risk göre oluşturulmuş en uygun portföy seçeneklerinden herhangi birisine teyet olanı ilgili yatırımcı için  en uygun yatırım seçeneğini göstermektedir.]]>
+</long-description>
+</directory>
+

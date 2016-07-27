@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>ELIOT DALGA TEORİSİ</name>
+<name-en>ELIOT DALGA TEORİSİ</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Bu teori Ralph Eliot tarafından ortaya atılmıştır. Dow Teorisine dayanır ve kendini tekrarlayan olayları analiz eder.]]>
+</short-description>
+<long-description>
+<![CDATA[
+Ralph Eliot, borsalardaki fiyat hareketleri dikkatli bir şekilde izlenerek ve oluşan fiyat dalgaları analiz edilerek gelecekteki fiyatların tahmin edilebileceğini söylemiştir. Fiyatların oluşturduğu dalgalar Fibonacci sayıları ile hesaplanmaktadır.
+Genelde fiyat dalgaları 5 dalga yükseliş, 5 dalga düşüş veya 3 dalda yükseliş, 3 dalga düşüş şeklindedir. Eliot dalga analizini yapanlar bu dalgaların ritmini yakalayabilirlerse iyi tahminler ve trend analizi yapabilirler. 
+Genellikle Elliot dalgalarında Birinci, Üçüncü ve Beşinci dalgalar yükselme dalgaları, İkinci ve Dördüncü dalgalar ise düzeltme dalgaları olarak dikkate alınır. 
+Eğer fiyatlar çok uzun vadeli bir tabana ulaşmışsa, ilk dalga sürekli bir yükseliş dalgasıdır. Birinci dalganın oluşmasından sonra genellikle kar satışlarının başlamasıyla ikinci düzeltme dalgası oluşur. Oluşan dalgaların Elliot Dalga Teorisi ile uyumlu olup olmadığını anlamak için ikinci dalgada fiyatların nereye kadar düştüğüne bakmak gerekir. İkinci dalganın dip noktası kesinlikle birinci dalganın başladığı noktadan aşağı düşmemelidir. İkinci düzeltme dalgası, birinci  yükseliş dalgasının başladığı seviyenin altına düşmemelidir. 
+İkinci dalgadaki düzeltmeden sonra fiyatlar yükselmeye başladığında işlem hacmi de artmaya başlıyorsa ve fiyatlar birinci dalgada gelinen seviyenin de üzerine çıkmışsa, üçüncü dalga içinde olunduğu varsayılır. Genellikle üçüncü yükseliş dalgası en güçlü dalgadır.
+Üçüncü dalgada fiyatlar önemli ölçüde yükselmiştir. Fiyatların düşmeye başlaması ve iki-üç gün arka arkaya düşüşün devam etmesi durumunda düzeltme dalgası başlar. Burada fiyatların düşmesiyle birlikte işlem hacminin de düşüp düşmediğine dikkat edilmelidir. Eliot dalga teorisinin geçerli olması için hiç bir dalga birinci dalganın yükseliş seviyesinin altına düşmemelidir.
+Beşinci dalga genellikle az dinamiktir ve fiyatlar yükselse de kararsızlıkların oluşmaya başladığı görülür. İşlem hacmi ile fiyatların hareketi ters yönlerde oluşmaya başlar. Örneğin fiyatlar düşerken işlem hacmi yükselir. 
+]]>
+</long-description>
+</directory>

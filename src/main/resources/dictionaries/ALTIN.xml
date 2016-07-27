@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>ALTIN</name>
+<name-en>Gold</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+<terim name="FİNANSAL PİYASALAR">Finansal piyasalar</terim> açısından kıymetli maden türünden bir <terim name="EMTİA">emtia</terim> çeşididir.]]>
+</short-description>
+<long-description>
+<![CDATA[
+Altın tarih boyunca hem bir para birimi, hem de bir servet aracı olarak kullanılmıştır. Altın, bazen gümüşle bazen de tek başına bir para standardına da temel teşkil etmiştir (bakınız <terim name="ALTIN STANDARDI">altın standardı</terim>).
+Bugün özellikle kuyumculuk sektöründe önemli bir hammadde olmasına rağmen halen bir <terim name="RİSKSİZ YATIRIM ARACI">yatırım aracı</terim> olarak çekiciliğini sürdürmektedir. Özellikle <terim name="ENFLASYON">enflasyonist</terim> ve hatta bazı durumlarda <terim name="DEFLASYON">deflasyonist</terim> beklentilerde yatırımcılar için güvenli liman özelliğine sahip olmaktadır.
+Altının uluslararası değeri ABD <terim name="DOLAR">Doları</terim>'na karşı belirlenmektedir. Dolayısıyla diğer para birimlerinin altın karşısındaki değeri Altının ABD Doları'nın ilgili para birimi karşısındaki değerinden de etkilenmektedir.
+Örneğin gram altının Türk Lirası karşısındaki değeri ons altının ABD Doları'na karşı değeri ile ABD Doları / Türk Lirası <terim name="DÖVİZ KURU">döviz kurundaki</terim> değişimden etkilenmektedir.
+]]>
+</long-description>
+</directory>

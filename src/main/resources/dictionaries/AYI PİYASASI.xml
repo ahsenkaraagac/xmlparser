@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>AYI PİYASASI</name>
+<name-en>Bear</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>	
+<short-description>
+<![CDATA[
+<terim name="FİNANSAL PİYASALAR">Finansal piyasalarda</terim> herhangi bir finansal varlıkla veya piyasasının geneli ile ilgili olarak <terim name="FİYAT">fiyatların</terim> genel olarak düşme durumunda ve eğiliminde olmasını işaret eden bir kavramdır.
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Ayı piyasası genellikle <terim name="KURUMSAL YATIRIMCILAR">yatırımcıların</terim> çoğunluğunun ilgili finansal varlıkla veya piyasanın geneli ile ilgili kötümser beklentilere sahip olmalarıyla ortaya çıkar.
+Örneğin bir şirketin finansal durumuyla ya da yönetimiyle ilgili olarak yatırımcıların algılaması kötüleşirse o şirketin ihraç etmiş olduğu <terim name="PAY(HİSSE) SENETLERİ">pay (hisse) senedinin</terim>, <terim name="TAHVİL">tahvilinin</terim> ya da <terim name="BONO">bonosunun</terim> fiyatları düşme eğilimine girebilir.
+Kötümserlik sadece bir <terim name="İHRAÇ">ihraççıya</terim> ya da onun <terim name="İHRAÇ">ihraç</terim> etmiş olduğu bir finansal varlığa değil genel olarak aynı türdeki finansal varlıkların tümüne ve hatta tüm finansal varlık sınıflarına da yayılabilir. Bunun sebepleri ülke ekonomisinin veya küresel <terim name="EKONOMİ">ekonominin</terim> resesyona girmesi veya bu yöndeki beklentiler, yurtiçi veya uluslararası siyasi gelişmeler olabilir. 
+]]>
+</long-description>
+</directory>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>BİLEŞİK FAİZ ORANI</name>
+<name-en>Compound interest</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+Bileşik<terim name="FAİZ VE FAİZ ORANI"> faiz oranı</terim>, birbirini izleyen birkaç eşdeğer dönem boyunca ana para ve faiz tutarlarının sürekli borçlanılması veya borç verilmesi durumunda elde edilecek kümüle faiz tutarını  tespit etmek amacıyla kullanılan faiz oranıdır. 
+]]>
+</short-description>
+<long-description>
+<![CDATA[
+Bileşik faiz oranı hesaplamasında en çok yıllık bileşik faiz oranı kullanılır. Bileşik faiz oranının sadece bir yıl içerisindeki eşdeğer dönemlerinin karşılığıdır.
+<terim name="YILLIK BASİT FAİZ ORANI">Yıllık basit faiz oranından</terim> yola çıkılarak aşağıdaki gibi hesaplanır.
+YBF = [(1+ i/Baz Yıl*d)(Baz Yıl/d)] – 1
+
+YBF		: yıllık bileşik faiz oranı
+id 		: dönemsel faiz oranı
+i		: yıllık basit faiz oranı
+d		: vade (gün sayısı)
+baz yıl	: bir yıl içinde kabul edilen toplam gün sayısı (360, 364, 365 veya 		  366 gün olabilir)
+Yıllık basit faiz oranı farklı vadelere ait yıllık basit faiz oranlarının karşılaştırılmasında kullanılır. Ayrıca<terim name="YEİLD CURVE"> faiz oranı veya getiri oranı eğrisi</terim> oluşturulmasında da kullanılır.
+]]>
+</long-description>
+</directory>

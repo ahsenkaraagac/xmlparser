@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name> C ENDEKSİ</name>
+<name-en>c endeksi</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<short-description>
+<![CDATA[
+   <terim name="ÖZEL KAPSAMLI TÜKETİCİ FİYATLARI ENDEKSLERİ(ÖZEL KAPSAMLI TÜFE)">Fiyatları Endeksi (Özel Kapsamlı TÜFE). </terim> Enerji ürünleri hariç  <terim name="TÜFE"> TÜFE. </terim> Ayrıca bakınız  <terim name="ÖZEL KAPSAMLI TÜFE"> Özel Kapsamlı Tüketici </terim>
+   ]]>
+</short-description>
+    <long-description></long-description>
+</directory>

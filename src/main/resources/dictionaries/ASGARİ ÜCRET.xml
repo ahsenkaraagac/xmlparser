@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>ASGARİ ÜCRET</name>
+<name-en>Minimum wage</name-en>
+<tags>
+<tag>borsa</tag>
+<tag>finans</tag>
+</tags>
+<popular>true</popular>   
+<short-description> <![CDATA[
+ İşçilere normal bir çalışma günü karşılığı ödenen ve işçinin gıda, konut, giyim, sağlık, ulaşım ve kültür gibi zorunlu ihtitaçlarını günün fiyatları üzerinden asgari düzeyde karşılamaya yeten <terim name="ÜCRETLER">ücrettir</terim>.]]>
+</short-description>  
+<long-description>
+<![CDATA[
+Diğer bir değişle asgari ücret, işçi ve ailesinin günün, ekonomik ve sosyal koşullarına göre insanca yaşamasını sağlayacak, insanlık onuru ile vağdaşacak bir ücreti tarif eder. Bu durumda belirlenen asgari ücret, sadece çalışanın değil, ailesinin de ekonomik, sosyal ve kültürel ihtiyaçlarını karşılamaya yetecek düzeyde olmalıdır. 
+Asgari ücret ücrein en alt seviyesidir. Buna göre asgati ücretin altında bir ücret ödenmesi ne iş sözleşmeleriyle ne de toplu sözleşmelerde mümkün değildir. İşçi oarak çalışan herkes asgari ücret olarak tespit edilen miktardam veya üzerinden ücrete hak kazanmaktadır.
+Türkiye’de asgari ücret, asgari ücret komisyonu tarafından yılda bir kere belirlenir. Asgari ücret tespit konisyonu 15 üyeden oluşmaktadır. Bu üyeler çalışma ve sosyal güvenlik bakanlığından iki kişi, <terim name="TÜKETİCİ FİYATLARI ENDEKSİ">TUİK</terim>’ten bir kişi, kalkınma bakanlığından bir kişi, hazine müşteşarlığından bir kişi, en çok işçi bulundan en üst işçi grubunun seçeceği 5 kişi ve bünyesinde en fazla işveren bulunduran işveren temsilcilerinden 5 üyedir. 
+]]>
+</long-description> 
+</directory>

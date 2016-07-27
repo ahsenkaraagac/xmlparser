@@ -1,0 +1,173 @@
+apply plugin: "maven"
+apply plugin: 'java'
+apply plugin: 'groovy'
+apply plugin: 'war'
+apply plugin: 'maven-publish'
+
+group = 'com.ahsen.xmlparser'
+version = '0.0.1-SNAPSHOT'
+description = 'Ahsen Application'
+
+compileJava.options.encoding = 'UTF-8'
+
+// integration test local docker api
+// gradle dockerIntegrationTest -Paddr=localhost -Pport=1234 -PdockerApiUrl=http://localhost:2375
+
+
+// Dependencies Versions
+ext {
+    spring_version          = '4.2.4.RELEASE'
+    selenium_version        = '2.46.0'
+    arquillian              = '1.1.11.Final'
+    shrinkWrapResolverGradle= '2.2.2'
+}
+
+// JDK 8
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+
+war {
+    baseName = 'ahsen-web'
+    System.out.println("war version = "+version)
+}
+
+repositories {
+    jcenter()
+    maven {
+        url "https://oss.sonatype.org/content/repositories/sourceforge-releases"
+    }
+    maven {
+        url 'http://repository.jboss.org/nexus/content/groups/public'
+    }
+}
+
+sourceSets {
+    main {
+        java { srcDir 'src/main/java' }
+        resources { srcDir 'src/main/resources' }
+    }
+
+    test {
+        java { srcDir 'src/test/java' }
+        groovy { srcDir 'src/test/groovy' }
+        resources { srcDir 'src/test/resources' }
+    }
+}
+
+dependencies {
+    runtime 'javax.servlet:jstl:1.2'
+    compile 'org.springframework:spring-webmvc:' + spring_version
+    compile 'org.springframework:spring-oxm:' + spring_version
+    compile 'org.slf4j:slf4j-api:1.7.5'
+    compile 'com.goebl:david-webb:1.1.0'
+    compile 'javax.persistence:persistence-api:1.0.2'
+    compile 'javax.ejb:javax.ejb-api:3.2'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'javax.annotation:javax.annotation-api:1.2'
+    compile 'javax.validation:validation-api:1.1.0.Final'
+    compile 'commons-io:commons-io:2.4'
+    compile 'com.goebl:david-webb:1.2.0'
+
+
+
+    compile 'org.jboss.resteasy:resteasy-jaxrs:3.0.14.Final'
+    compile 'org.jboss.resteasy:resteasy-jackson-provider:3.0.14.Final'
+    compile 'org.jboss.resteasy:resteasy-multipart-provider:3.0.14.Final'
+    compile 'org.jboss.resteasy:resteasy-cdi:3.0.14.Final'
+
+    compile 'org.apache.commons:commons-lang3:3.4'
+
+    compile 'commons-fileupload:commons-fileupload:1.2'
+    compile 'com.octo.captcha:jcaptcha-integration-simple-servlet:2.0-alpha-1'
+    compile 'commons-collections:commons-collections:3.2'
+    compile 'com.symantec:scanengine:7.5'
+    compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.2'
+    compile group: 'org.apache.httpcomponents', name: 'httpcore', version: '4.4.4'
+
+    providedCompile 'javax.servlet:javax.servlet-api:3.1.0'
+    providedCompile 'javax.ws.rs:javax.ws.rs-api:2.0.1'
+
+
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
+    testCompile 'cglib:cglib-nodep:3.2.0'
+    testCompile 'org.mockito:mockito-all:2.0.2-beta'
+    testCompile 'org.powermock:powermock-api-mockito:1.6.4'
+    testCompile 'org.powermock:powermock-module-junit4:1.6.4'
+    testCompile 'org.springframework:spring-test:' + spring_version
+    testCompile 'org.seleniumhq.selenium:selenium-firefox-driver:' + selenium_version
+    testCompile 'org.seleniumhq.selenium:selenium-htmlunit-driver:' + selenium_version
+
+
+
+    testCompile 'org.jboss.arquillian.junit:arquillian-junit-container:' + arquillian
+    testCompile 'org.jboss.arquillian.protocol:arquillian-protocol-servlet:' + arquillian
+    testCompile 'org.jboss.as:jboss-as-arquillian-container-remote:7.2.0.Final'
+    testCompile 'org.jboss.as:jboss-as-arquillian-container-managed:7.2.0.Final'
+    testCompile 'org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-gradle-depchain:' + shrinkWrapResolverGradle
+    testCompile 'org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-api-maven:2.2.2'
+    testCompile 'org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven:2.2.2'
+    testCompile 'org.jboss.arquillian.extension:arquillian-rest-client-api:1.0.0.Alpha4'
+
+    testCompile 'org.jboss.arquillian.extension:arquillian-jacoco:1.0.0.Alpha8'
+}
+
+buildscript {
+    repositories {
+        jcenter()
+        mavenLocal()
+        mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+        maven { url 'http://repository.jboss.org/nexus/content/groups/public' }
+    }
+
+    dependencies {
+
+        classpath 'javax.servlet:jstl:1.2'
+        classpath 'org.springframework:spring-webmvc:4.2.4.RELEASE'
+        classpath 'org.springframework:spring-oxm:4.2.4.RELEASE'
+        classpath 'org.slf4j:slf4j-api:1.7.5'
+        classpath 'com.goebl:david-webb:1.1.0'
+        classpath 'javax.servlet:javax.servlet-api:3.1.0'
+
+        classpath 'junit:junit:4.12'
+        classpath 'org.mockito:mockito-all:2.0.2-beta'
+        classpath 'org.powermock:powermock-api-mockito:1.6.4'
+        classpath 'org.powermock:powermock-module-junit4:1.6.4'
+        classpath 'org.springframework:spring-test:4.2.4.RELEASE'
+        classpath 'org.seleniumhq.selenium:selenium-firefox-driver:2.46.0'
+        classpath 'org.seleniumhq.selenium:selenium-htmlunit-driver:2.46.0'
+
+        classpath 'org.jboss.resteasy:resteasy-jaxrs:3.0.14.Final'
+        classpath 'org.jboss.resteasy:resteasy-jackson-provider:3.0.14.Final'
+        classpath 'org.jboss.resteasy:resteasy-multipart-provider:3.0.14.Final'
+        classpath 'org.jboss.resteasy:jaxrs-api:3.0.12.Final'
+    }
+}
+
+
+
+
+test {
+    exclude '**/*Integration*.*'
+}
+
+
+task copyDictionaryXml(type: Copy) {
+    from('src/main/resources/dictionaries') {
+
+    }
+    into 'build/dictionaries'
+}
+
+
+
+//TODO Integration tests will be integrated to docker
+task integrationTest(type: Test) {
+    //dependsOn startDockerContainer
+    systemProperty "test.url", "http://localhost:8080"
+    include '**/*Integration*.*'
+}
