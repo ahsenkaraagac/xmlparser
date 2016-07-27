@@ -1,8 +1,6 @@
 package com.ahsen.xmlparser;
 
-/**
- * Created by ahmetkonyalioglu on 13.07.2016.
- */
+
 
 //@Singleton
 //@Startup
