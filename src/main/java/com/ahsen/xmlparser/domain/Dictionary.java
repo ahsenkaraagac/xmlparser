@@ -3,9 +3,7 @@ package com.ahsen.xmlparser.domain;
 import javax.xml.bind.annotation.*;
 import java.util.List;
 
-/**
- * Created by ahmetkonyalioglu on 13.07.2016.
- */
+
 @XmlRootElement(name ="directory")
 public class Dictionary {
 
